@@ -1,8 +1,8 @@
 # UI_EventBrite
 
-## Quelques elements d'UI pour le projet EventBrite 
+##### Quelques elements d'UI pour le projet EventBrite 
 
-# Elements disponibles :
+## Elements disponibles :
   -Navbar
   
   -Footer
@@ -17,5 +17,6 @@
 Ouvrir le fichier index.html puis clicker sur liens pour voir
 les elements d'interface disponible . 
 
-Ps: Il manque la presentation des atomes provenant de Bootswatch , ainsi que la presentation des
+######PS: 
+Il manque la presentation des atomes provenant de Bootswatch , ainsi que la presentation des
 ressource(2.2.7)
