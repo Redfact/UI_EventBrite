@@ -4,10 +4,15 @@
 
 # Elements disponibles :
   -Navbar
+  
   -Footer
+  
   -Formulaire d'authentification
+  
   -2 types de bannière 
+  
   -Differents cards (events , users, comments , ville)
+  
 
 Ouvrir le fichier index.html puis clicker sur liens pour voir
 les elements d'interface disponible . 
