@@ -13,10 +13,10 @@
   
   -Differents cards (events , users, comments , ville)
   
-###### Comment tester : 
+##### Comment tester : 
 Ouvrir le fichier index.html puis clicker sur liens pour voir
 les elements d'interface disponible . 
 
-###### PS: 
+##### PS: 
 Il manque la presentation des atomes provenant de Bootswatch , ainsi que la presentation des
 ressource(2.2.7)
